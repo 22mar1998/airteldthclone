@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/airteldthclone/static/css/main.2305c6b4.css",
+    "main.js": "/airteldthclone/static/js/main.7fff3e30.js",
+    "static/js/787.aedbb59e.chunk.js": "/airteldthclone/static/js/787.aedbb59e.chunk.js",
+    "static/media/bg.jpg": "/airteldthclone/static/media/bg.09f57aff7cb448ddb0df.jpg",
+    "static/media/Dth.jpg": "/airteldthclone/static/media/Dth.8e755738d3916e8c0e80.jpg",
+    "index.html": "/airteldthclone/index.html",
+    "main.2305c6b4.css.map": "/airteldthclone/static/css/main.2305c6b4.css.map",
+    "main.7fff3e30.js.map": "/airteldthclone/static/js/main.7fff3e30.js.map",
+    "787.aedbb59e.chunk.js.map": "/airteldthclone/static/js/787.aedbb59e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2305c6b4.css",
+    "static/js/main.7fff3e30.js"
+  ]
+}
